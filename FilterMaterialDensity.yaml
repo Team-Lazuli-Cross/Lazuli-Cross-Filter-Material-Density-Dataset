@@ -1,0 +1,6 @@
+train: Lazuli-Cross-Filter-Material-Density-Dataset/images/train/
+val: Lazuli-Cross-Filter-Material-Density-Dataset/images/val/
+
+nc: 3
+
+names: ['Undefined Area', 'High GSM', 'Low GSM']
