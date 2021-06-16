@@ -1,4 +1,4 @@
-train: Lazuli-Cross-Filter-Material-Density-Dataset/images/train/
+train: Lazuli-Cross-Filter-Material-Density-Dataset/images/train/ Lazuli-Cross-Filter-Material-Density-Dataset/raws/
 val: Lazuli-Cross-Filter-Material-Density-Dataset/images/val/
 
 nc: 3
