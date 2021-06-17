@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train1</folder>
+	<filename>lazulicross_00209.jpg</filename>
+	<path>D:\GitHub\Lazuli-Cross-Filter-Material-Density-Dataset\images\train1\lazulicross_00209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>706</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Low GSM</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>8</ymin>
+			<xmax>1018</xmax>
+			<ymax>706</ymax>
+		</bndbox>
+	</object>
+</annotation>
